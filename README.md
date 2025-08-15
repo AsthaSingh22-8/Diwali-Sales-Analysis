@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis
+# Diwali-Sales-Analysis (Brainwave Matrix Intern)
 – (Exploratory Data Analysis ) Python Project	
 ●	Performed data cleaning and manipulation.
 ●	Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries.
